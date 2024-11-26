@@ -4,3 +4,5 @@ def func (par):
 """
 documentation
 """
+
+languages = ['Python', 'Rust', 'Ruby']
