@@ -6,3 +6,8 @@ documentation
 """
 
 languages = ['Python', 'Rust', 'Ruby']
+
+dev = {
+    'status': 'no bitches',
+    'rizz': False
+}
